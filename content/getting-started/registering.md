@@ -1,23 +1,23 @@
 ---
-title: Sign up to Codewars
+标题：注册Codewars
 ---
 
-You’ve decided to join Codewars; that’s great! If you need help signing up, follow these steps to create your new account and start solving tasks (Kata), learning, and improving your programming skills! 
+你决定加入法典战争，太好了！如果您需要注册帮助，请按照以下步骤创建新帐户并开始解决任务(Kata)、学习和提高编程技能！
 
-## How to sign up 
-First, go to our [sign-up](https://www.codewars.com/join) page. Here, you will have the option to create a Codewars account in one of two ways;  
-1. Type your username and email address, and create a password.
-2. Sign up using your GitHub Account.  
+##如何注册
+首先，去我们的[注册](https://www.codewars.com/join)页。在这里，您可以选择以下两种方式之一创建Codewars帐户：
+1.键入用户名和电子邮件地址，并创建密码。
+2.使用您的GitHub帐户注册。
  
-**Important note:**
-Once your account is set up, you will receive an email asking to confirm your email address. Please be aware that certain features on Codewars will be limited until your account is confirmed. Check your spam folder if you cannot find the email in your inbox.
+**重要提示：**
+一旦您的帐户被设置，您将收到一封电子邮件，要求确认您的电子邮件地址。请注意，在您的帐户被确认之前，Codewars上的某些功能将受到限制。如果在收件箱中找不到电子邮件，请检查垃圾邮件文件夹。
 
-If you can’t find this email, you can request it again by logging into your account, heading to your ‘account settings,’ and selecting ‘resend.’  
+如果您找不到此电子邮件，您可以登录您的帐户，转到“帐户设置”，然后选择“重新发送”，再次请求此电子邮件。
  
-## Establish your training settings 
-Once you have signed up, you can select some training settings on Codewars. These settings will help us recommend challenges (Kata) to you and provide you with more opportunities on Codewars. These settings allow you to tell us how much programming experience you have, what languages you have experience in, and what programming languages you wish to train in (e.g., what languages you will challenge yourself with Codewars Kata). 
+##建立您的培训设置
+注册后，您可以选择一些关于Codewars的培训设置。这些设置将帮助我们向您推荐挑战(Kata)，并为您提供更多关于Codewars的机会。这些设置允许您告诉我们您有多少编程经验，您有哪些语言的经验，以及您希望培训哪些编程语言(例如，您将使用Codewars Kata挑战自己哪些语言)。
  
-## What’s next? 
-Once your training settings have been saved, you will be brought to your training dashboard. Here, you will find your allies (accounts you follow or members of your [Clan](https://docs.codewars.com/community/following/#clans)), the latest comments on Codewars, and, most importantly, your [next challenge to solve](https://docs.codewars.com/getting-started/finding-kata/). 
+##下一步是什么？
+保存您的培训设置后，您将被带到您的培训仪表板。在这里，您将找到您的盟友(您关注的帐户或您的[宗族](https://docs.codewars.com/community/following/族数))，关于《法典》的最新评论，最重要的是，您的[下一个要解决的挑战](https://docs.codewars.com/getting-started/finding-kata/).
  
-You’re now ready to train on Codewars; enjoy!
+现在，您已准备好接受关于密码战的训练；请尽情享受！
